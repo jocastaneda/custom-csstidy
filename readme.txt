@@ -1,7 +1,6 @@
 === Custom CSSTidy ===
 Contributors: jcastaneda
 Tags: custom-css
-Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=CQ84KC4X8YKW8
 Requires at least: 4.0
 Tested up to: 4.3
 License: GPLv2 or later
